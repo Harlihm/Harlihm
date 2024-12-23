@@ -3,7 +3,7 @@
   <img src="https://capsule-render.vercel.app/api?text=Hi%20Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p>
 <p align="center">
-  <b>NICE TO HAVE YOU HERE  </b>
+  <b>NICE TO HAVE YOU HERE.  </b>
 </p>
 
 ```yaml
