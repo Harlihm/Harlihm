@@ -10,13 +10,13 @@
 ```yaml
  $ git pull myLifeTogether
 ```
-<span align="center" > <a href="https://www.instagram.com/jst_bidex/">
+<!-- <span align="center" > <a href="https://www.instagram.com/jst_bidex/">
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
-<a href="https://www.x.com/_0xpain/">
+<a href="https://www.x.com/0xpain/">
   <img height="50" src="https://cdn4.iconfinder.com/data/icons/social-media-icons-the-circle-set/48/twitter_circle-512.png"/>
 </a>
-</span>
+</span> -->
 
 
 <!-- <h2> 🚀 &nbsp;Some Tools I Have Used and Learned</h2>
